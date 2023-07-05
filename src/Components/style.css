@@ -1,0 +1,90 @@
+
+  /* Hero */
+  .hero {
+    position: relative;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background-image: url('path-to-image.jpg'); */
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .slideshow {
+    /* Styles for the slideshow container */
+  }
+  
+  .quotes {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    font-size: 14px;
+    color: #fff;
+  }
+  
+  .navigation-dots {
+    /* Styles for the navigation dots container */
+  }
+  
+  /* Main Section */
+  .main-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+  }
+  
+  .image-section {
+    /* Styles for the image container */
+  }
+  
+  .text-section {
+    /* Styles for the text container */
+  }
+  
+  /* Social Media */
+  .social-media {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .quick-links ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .quick-links li {
+    display: inline;
+    margin-left: 10px;
+  }
+  
+  .quick-links a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .social-media-logos {
+    margin: 20px 0;
+  }
+  
+  .social-media-logos img {
+    width: 30px;
+    margin-right: 10px;
+  }
+  
+  /* Additional CSS for animations and responsiveness */
+  /* ... */
+  
